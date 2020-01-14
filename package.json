@@ -1,0 +1,19 @@
+{
+  "name": "nasdaq-scraping",
+  "version": "1.0.0",
+  "description": "NASDAQ data-scraping application using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mconour/nasdaq-scraping.git"
+  },
+  "author": "MC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mconour/nasdaq-scraping/issues"
+  },
+  "homepage": "https://github.com/mconour/nasdaq-scraping#readme"
+}
