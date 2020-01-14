@@ -5,4 +5,4 @@ Dependencies:
 * Express
 * Axios
 
-Use JSON Formatter Chrome extension to view data parsed
+Use JSON Formatter extension to view data parsed
