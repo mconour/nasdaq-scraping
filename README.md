@@ -1,5 +1,7 @@
 # Nasdaq Scraping Application
 
+```
 Languages: JavaScript
+Other: Express, Axios, JSON Formatter, express
+```
 
-Other: Express, Axios, JSON Formatter
