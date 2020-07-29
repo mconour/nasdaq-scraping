@@ -1,8 +1,4 @@
-# nasdaq-scraping
-NASDAQ data-scraping application using Node.js
+# Nasdaq Scraping Application
 
-Dependencies: 
-* Express
-* Axios
-
-Use JSON Formatter extension to view data parsed
+Languages: JavaScript
+Other: Express, Axios, JSON Formatter
