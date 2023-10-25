@@ -62,5 +62,3 @@ This project uses the following Node.js packages:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can save this description in a `README.md` file in your project's repository to provide information and usage instructions for others who want to use or contribute to your NASDAQ stock scraper.
